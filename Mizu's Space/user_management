@@ -1,6 +1,0 @@
-su will let u switch between a user
-useradd will add a user
-userdel will delete a user
-chgrp will change group 
-chown will change ownership of a file to someone else
-chmod will change permissions of a file 
