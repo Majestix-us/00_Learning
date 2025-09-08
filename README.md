@@ -1,1 +1,1 @@
-# 00_Learning / MajestyX
+# 00_Learning / MajestyXs
